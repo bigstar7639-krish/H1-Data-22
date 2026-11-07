@@ -37,3 +37,6 @@ A: Wilson - Entertainment: Film
 Auto Quiz - Magic 🧠
 Q: Which of these films is NOT set in Los Angeles?
 A: RoboCop - Entertainment: Film
+Auto Quiz - Luck 🧠
+Q: Which of these NHL teams have never moved since their inception?
+A: St. Louis Blues - Sports
