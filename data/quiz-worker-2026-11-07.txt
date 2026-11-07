@@ -34,3 +34,6 @@ A: Six - Entertainment: Video Games
 Auto Quiz - Wisdom 🧠
 Q: What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?
 A: Wilson - Entertainment: Film
+Auto Quiz - Magic 🧠
+Q: Which of these films is NOT set in Los Angeles?
+A: RoboCop - Entertainment: Film
