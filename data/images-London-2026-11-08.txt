@@ -40,3 +40,4 @@ London - Openverse - https://www.flickr.com/photos/70323761@N00/306893122
 London - Unsplash - https://source.unsplash.com/800x600/?London%20street
 London - Wikimedia - https://commons.wikimedia.org/wiki/File:Big_Ben_at_sunset_-_2014-10-27_17-30.jpg
 London - Wikimedia - https://commons.wikimedia.org/wiki/File:London_Bridge_panorama.jpg
+London - Wikimedia - https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Oct_2008_-_Aligned.jpg
