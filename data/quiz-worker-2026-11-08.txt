@@ -52,3 +52,6 @@ A: William III - History
 Auto Quiz - Philosophy 🧠
 Q: In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?
 A: Mistletoe - Mythology
+Auto Quiz - Economics 🧠
+Q: What is the standard SI unit for luminous intensity?
+A: Candela - Science & Nature
