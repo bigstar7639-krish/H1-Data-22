@@ -34,3 +34,6 @@ A: Paranoid Android - Entertainment: Japanese Anime & Manga
 Auto Quiz - New York 🧠
 Q: How many planets make up our Solar System?
 A: 8 - Science & Nature
+Auto Quiz - Egypt 🧠
+Q: In Minecraft: Java Edition, which of the following feature/block was added to Survival mode in Beta 1.3?
+A: Beds - Entertainment: Video Games
