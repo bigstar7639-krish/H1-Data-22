@@ -250,3 +250,6 @@ Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Book - bwb_T3-BRL-524 - A Study of the Book of Acts
 Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
 Kavithai - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum
+Thirukkural - TNLA-DB-5-1974-10-46-4-QH22_1974-01-22 - Thirukkural as a National Book
+Thirukkural - ValluvarinThirukkuralThelivurai - Valluvarin Thirukkural Thelivurai
+Pazhamozhi - 14PazhamozhiThirumanam1917 - 14 Pazhamozhi Thirumanam 1917
