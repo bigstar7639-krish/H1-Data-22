@@ -153,3 +153,6 @@ Fashion - kids-fashion_202402 - Kids Fashion
 Game - bwb_S0-BWV-057 - Fish and Game Cook Book
 Game - gamecandle0000kayr - the game and the candle
 Football - football0000unse_e9k3 - Football
+Sport - ENGLISHQuestions_20170926 - ENGLISH Questions sport
+Sport - LGSmartSport - LG Smart Sport
+Football - forloveoffootbal0000john - For the Love of Football: A Companion
