@@ -244,3 +244,9 @@ Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
 Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945
 Phone - isometric-gradient-3d-mobile-phone-background - isometric-gradient-3d-mobile-phone-background
 Phone - PhoneDoctor_20170313 - Phone Doctor
+Computer - computerbasedtra0000hila - Computer-based Training of Cannon Fire Direction Specialists
+Computer - computerdatabase0000lawr - A Computer Data Base System for Indexing Research Papers
+Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
+Book - bwb_T3-BRL-524 - A Study of the Book of Acts
+Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
+Kavithai - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum - vaanampadigalin_kavithai_iyakkam_varalarum_padippinaigalum
