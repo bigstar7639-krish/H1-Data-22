@@ -232,3 +232,5 @@ Psychology - isbn_9780558105211 - Organizational & Industrial Psychology, Custom
 Psychology - isbn_0536662908 - The 21st Century: A Psychology of Communication Perspective
 Philosophy - worldasspectacle0000gust_s4m8_c9j9 - The World as Spectacle An Aesthetic View of Philosophy
 Philosophy - historyofphiloso0000seym_z6e0 - a history of philosophy
+Economics - moderneconomics0000arth - modern economics
+Economics - isbn_9780536824394 - Economics (Principles and Tools Custom Edition)
