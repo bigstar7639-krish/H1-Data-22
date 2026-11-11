@@ -204,3 +204,7 @@ Village - isbn_030114608 - Gopalpur; a south Indian village
 Village - DirtOnTires2VillageLSMaxPaney - Dirt On Tires 2 Village LS Max Paney
 City - howtorunacitylikeamazon - How to Run a City Like Amazon, and Other Fables
 City - churchcity1865190000robe - the church and the city 1865-1910
+Chennai - cbfc-ecinepramaan-100030292300001437 - THE CHENNAI SILKS AADI 2023
+Chennai - employee-well-being-and-its-influence-on-retention-strategies-among-the-workers-_202507 - Employee Well-Being and Its Influence on Retention Strategies Among the Workers at Manufacuturing Industries, Oragadam, Chennai
+Madurai - delta-madurai-jigarthanda-center - delta-madurai-jigarthanda-center
+Madurai - eparlib.nic.in.26943 - Direct Train from Madurai to New Delhi (23-Jul-1996)
