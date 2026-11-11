@@ -318,3 +318,5 @@ Baby - keralalegislativeassembly.proceedings.485952 - Incident about Death of Mo
 Baby - rightonwithloveb0000lonw - Right on with love, baby
 Teacher - bwb_C0-BPX-797 - teacher, teacher, I done it! I done it! I done done it!
 Teacher - bwb_S0-CBG-611 - The Discrenible Teacher
+Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Algebra
+Student - bwb_S0-DNM-028 - High school student book
