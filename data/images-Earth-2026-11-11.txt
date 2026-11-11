@@ -21,3 +21,6 @@ Earth - Unsplash - https://source.unsplash.com/800x600/?Earth%20sunrise
 Earth - Openverse - https://www.flickr.com/photos/24662369@N07/4901623190
 Earth - Openverse - https://www.flickr.com/photos/63775621@N00/2178998214
 Earth - Openverse - https://www.flickr.com/photos/23732688@N04/4346862276
+Earth - Wikimedia - https://commons.wikimedia.org/w/index.php?curid=42045082
+Earth - Openverse - https://www.flickr.com/photos/16230215@N08/5702274235
+Earth - Openverse - https://www.flickr.com/photos/24662369@N07/4542423536
